@@ -1,0 +1,23 @@
+{
+  "name": "asynchronous-programming-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanKr/asynchronous-programming-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanKr/asynchronous-programming-playground/issues"
+  },
+  "homepage": "https://github.com/NathanKr/asynchronous-programming-playground#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
