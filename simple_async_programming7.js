@@ -1,6 +1,6 @@
 const { timeoutPromise, array } = require("./utils");
 
-// ---- some time you want all operation to be invoked in a parallel and just wait for all to finish
+// ---- some time you want all operations to be invoked in a parallel and just wait for all to finish
 // ---- here the order is not important as long as Done is last
 // ----  -> 1 2 3 Done loop Done is printed
 
